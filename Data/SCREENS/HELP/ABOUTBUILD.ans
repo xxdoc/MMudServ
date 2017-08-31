@@ -1,0 +1,35 @@
+[7h[0;40;37m[?33h
+[30m [35mHELP: Build System: About the Building System
+ษอออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+บ [1;37mThe Building system will be the builders and coders way to create the world[0;30m [35mบ
+บ [1;37mfor the players.[0m[60C[35mบ
+บ[37m[77C[35mบ
+บ [1;37mWhile currently under development the initial implementation will allow the[0;35m บ
+บ [1;37mbuilding and coding staff to do the following[0m[31C[35mบ
+บ [37m[76C[35mบ
+บ[37m[7C[1m- Create new rooms and areas (including exits/doors/levels)[0m[11C[35mบ
+บ[37m[7C[1m- Create new mobiles (NPCs/Fightable Characters)[0m[22C[35mบ
+บ[37m[7C[1m- Create new objects (Items/Weapons/Containers)[0m[23C[35mบ
+บ[37m[7C[1m- Create new help topics/sub-topics[0m[35C[35mบ
+บ[37m[77C[35mบ
+บ[37m syntax: [1;33mBUILD <type> <vnum> <option1> <option2> ... <option n>[0m[14C[35mบ
+บ[37m[77C[35mบ
+บ[37m [1mThe above syntax is an example of the current plans for the building system[0m [35mบ
+บ[37m [1mand the actual syntax for specific build commands will be documented in the[0m [35mบ
+บ[37m [1mcommand specific help screens and documentation.[0m[28C[35mบ
+บ[37m[77C[35mบ
+บ[37m[77C[35mบ
+บ[37m[77C[35mบ
+บ[37m[77C[35mบ
+บ[37m[77C[35mบ
+บ[37m[77C[35mบ
+บ[37m[77C[35mบ
+บ[37m[77C[35mบ
+บ[37m[77C[35mบ
+บ[37m[77C[35mบ
+บ[37m[77C[35mบ
+บ[37m[77C[35mบ
+บ[37m[77C[35mบ
+บ[37m[77C[35mบ
+บ[37m[77C[35mบ
+ศอออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
